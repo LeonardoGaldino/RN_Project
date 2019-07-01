@@ -4,3 +4,5 @@ scikit-learn
 imbalanced-learn
 tensorflow
 keras
+matplotlib
+scikit-plot
